@@ -1,0 +1,54 @@
+body {
+    background-color: darkcyan;
+}
+.container{
+    background-color: white;
+    width: 50%;
+    position: absolute;
+    left: 20%;
+    top: 250px;
+    text-align: center;
+}
+
+#inputText{
+    font-size: 45px;
+}
+
+button{
+    display: block;
+    margin-top: 10px;
+    font-size: 30px;
+    position: relative;
+    left: 45%;
+    border-radius: 10px;
+    background-color: darkcyan;
+    color: white;
+}
+
+button:hover{
+    cursor: pointer;
+    background-color: aquamarine;
+    color: beige;
+}
+
+.colors{
+    color: darkcyan;
+}
+
+.hide{
+    display: none;
+}
+
+.show{
+    display: block;
+}
+
+h2{
+    border: 1px solid red;
+    width: 50%;
+    position: absolute;
+    left: 25%;
+    bottom: 10%;
+    background-color: rgba(255, 0, 0, 0.671);
+
+}
