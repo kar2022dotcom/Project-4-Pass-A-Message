@@ -1,1 +1,3 @@
-# Project-4-Pass-A-Message
+Project idea came from this site - https://jsbeginners.com/javascript-projects-for-beginners/
+
+Credits to this website creator
